@@ -8,3 +8,6 @@ The id attribute was added to describe all 3 product the webpage shows
 
 For the CSS i started by seperating each element with a comment to explain the code
 All of the elements were scrambled everywhere so I put familiar elements together for a cleaner look
+<img src="file:///Users/kendallcoleman/Desktop/Screen%20Shot%202022-09-28%20at%205.30.24%20PM.png">
+<img src="file:///Users/kendallcoleman/Desktop/Screen%20Shot%202022-09-28%20at%205.30.38%20PM.png">
+<img src="file:///Users/kendallcoleman/Desktop/Screen%20Shot%202022-09-28%20at%205.30.47%20PM.png">
